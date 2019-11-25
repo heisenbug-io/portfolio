@@ -1,2 +1,2 @@
-# portfolio
- Pujan Bhuva portfolio website. Made using jquery and bootstrap
+# Portfolio Site
+ This is the code of my portfolio site. Made using jquery, bootstrap
